@@ -59,4 +59,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joti-poddar&" alt="GitHub Streak" /></p>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/Joti-Poddar/Joti-Poddar/blob/output/github-snake-dark.svg" alt="snake animation" />
+</p>
