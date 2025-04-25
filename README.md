@@ -60,6 +60,3 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/joti-poddar/joti-poddar/blob/output/github-contribution-grid-snake.gif)
