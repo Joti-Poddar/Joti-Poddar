@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Joti Poddar</h1>
 <h3 align="center">🔍 Data Analyst | 📊 Storyteller with Data | 📍 India</h3>
 
@@ -17,9 +15,7 @@
   <a href="https://linkedin.com/in/joti-poddar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joti-poddar" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your_username" target="blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/your_username?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
+
 </p>
 
 ---
@@ -64,3 +60,6 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/joti-poddar/joti-poddar/blob/output/github-contribution-grid-snake.gif)
